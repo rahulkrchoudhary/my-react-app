@@ -1,0 +1,39 @@
+.report-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .report-table th, .report-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .report-table th {
+    background-color: #f2f2f2;
+  }
+  /* appp.css */
+
+/* Total sales box styling */
+.total-sales-box {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+  }
+  
+  .total-sales-box h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  /* Total sales value styling */
+  .total-sales-value {
+    font-size: 24px;
+    font-weight: bold;
+    color: #007bff; /* Change color as needed */
+  }
+  
+
+  
